@@ -27,3 +27,7 @@ git add . && git commit -m "update Readme.md"
 git remote add origin https://github.com/hareshkm999/DVC_Project.git
 git branch -M main
 git push origin main
+
+git add . && git commit -m "adding get_data function"
+git push origin main
+
